@@ -1,0 +1,1 @@
+Este projeto foi feito como um exercício para o curso "The Web Developer Bootcamp 2022" de Colt Steele da plataforma Udemy.
